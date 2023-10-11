@@ -3,7 +3,7 @@
 
 ## Description
 
-Este proyecto de transfer learning se centra en usar el modelo pre-entrenado de YOLOv8 y un set de datos de imagenes de piedras de riñon identificadas y obtener un modelo que de respuestas raápidas y robustas para la identificación de piedras en el riñón.
+This transfer learning project focuses on using the pre-trained YOLOv8 model and a dataset of identified kidney stone images to obtain a model that provides quick and robust responses for kidney stone identification.
 ## Getting Started
 
 ### Dependencies
